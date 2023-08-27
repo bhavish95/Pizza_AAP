@@ -104,7 +104,7 @@
           ],
           "product_details_page": [
             {
-              "url": "https://www.allrecipes.com/thmb/9UTj7kZBJDqory0cdEv_bw6Ef_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/48727-Mikes-homemade-pizza-DDMFS-beauty-2x1-BG-2976-d5926c9253d3486bbb8a985172604291.jpg"
+              "url": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg"
             }
           ]
         },
@@ -192,7 +192,7 @@
           ],
           "product_details_page": [
             {
-              "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2015/10/pizza-recipe-1.jpg"
+              "url": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg"
             }
           ]
         },
@@ -358,15 +358,6 @@
           }
         ]
       },
-       
-          {
-            "id": 6,
-            "name": "Basil",
-            "description": null,
-            "asset": {
-              "url": "https://assets.zumepizza.com/public/9pb5d2k4.png"
-            }
-          }
       {
         "id": 12,
         "name": "The O.G.",
@@ -383,7 +374,7 @@
           ],
           "product_details_page": [
             {
-              "url": "https://img.freepik.com/free-photo/tasty-homemade-traditional-pizza-italian-recipe_24972-2141.jpg"
+              "url": "https://img.freepik.com/free-photo/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai_188544-12347.jpg"
             }
           ]
         },
