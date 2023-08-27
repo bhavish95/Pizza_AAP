@@ -358,37 +358,7 @@
           }
         ]
       },
-        {
-    "Nonvegiterian": [
-         {
-        "id": 100,
-        "name": "Vegan Veggie",
-        "price": "23.95",
-        "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
-        "classifications": {
-          "vegetarian": true
-        },
-        "assets": {
-          "menu": [
-            {
-              "url": "https://assets.zumepizza.com/public/j4lb8iry.jpg"
-            }
-          ],
-          "product_details_page": [
-            {
-              "url": "https://igimages.gumlet.io/tamil/news/dominospizza-6f3.jpg?w=376&dpr=2.6"
-            }
-          ]
-        },
-        "toppings": [
-          {
-            "id": 150,
-            "name": "Baby Bell Peppers",
-            "description": null,
-            "asset": {
-              "url": "https://assets.zumepizza.com/public/7650vx0h.png"
-            }
-          },
+       
           {
             "id": 6,
             "name": "Basil",
